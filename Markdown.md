@@ -13,8 +13,6 @@
 
 ---
 
-
-
 ## Introducing Today's Project!
 
 In this project, I'm going to install Ollama in my system and run AI locally. 
